@@ -1,3 +1,4 @@
 # 📝 ESCP Assignements
 
-Assignement of Machine Learning with Python and Neural Network Processing Models
+* Machine Learning with Python
+* Neural Network Processing Models
